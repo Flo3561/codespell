@@ -11014,6 +11014,12 @@ cammanders->commanders
 cammanding->commanding
 cammands->commands
 cammond->command
+cammnad->command
+cammnaded->commanded
+cammnader->commander
+cammnaders->commanders
+cammnading->commanding
+cammnads->commands
 camoflage->camouflage
 camoflaged->camouflaged
 camoflages->camouflages
