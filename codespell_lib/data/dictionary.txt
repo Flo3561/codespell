@@ -30213,9 +30213,6 @@ glamourous->glamorous
 glancin->glancing
 glaobal->global
 glight->flight
-gltich->glitch
-gltiches->glitches
-gltiching->glitching
 gloab->globe
 gloabal->global
 gloabally->globally
@@ -30240,6 +30237,9 @@ globlaly->globally
 glorfied->glorified
 glpyh->glyph
 glpyhs->glyphs
+gltich->glitch
+gltiches->glitches
+gltiching->glitching
 glyh->glyph
 glyhs->glyphs
 glyped->glyphed
