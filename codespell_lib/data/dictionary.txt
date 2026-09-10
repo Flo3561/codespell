@@ -19835,6 +19835,9 @@ degenrating->degenerating
 degenration->degeneration
 degerate->degenerate
 degeree->degree
+degltich->deglitch
+degltiches->deglitches
+degltiching->deglitching
 degnerate->degenerate
 degnerated->degenerated
 degnerates->degenerates
@@ -30210,6 +30213,9 @@ glamourous->glamorous
 glancin->glancing
 glaobal->global
 glight->flight
+gltich->glitch
+gltiches->glitches
+gltiching->glitching
 gloab->globe
 gloabal->global
 gloabally->globally
